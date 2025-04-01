@@ -10,8 +10,7 @@
 ### 풀어볼 문제
 - 깊이 우선 탐색 순회(몸풀기 문제)
 - [네트워크(프로그래머스)](https://school.programmers.co.kr/learn/courses/30/lessons/43162) 
-- [양과 늑대(프로그래머스)](https://school.programmers.co.kr/learn/-courses/30/lessons/92343)
+- [양과 늑대(프로그래머스)](https://school.programmers.co.kr/learn/courses/30/lessons/92343)
 - [전력망을 둘로 나누기(프로그래머스)](https://school.programmers.co.kr/learn/courses/30/lessons/86971) 
 - [양궁대회(프로그래머스)](https://school.programmers.co.kr/learn/courses/30/lessons/92342) 
-
 
