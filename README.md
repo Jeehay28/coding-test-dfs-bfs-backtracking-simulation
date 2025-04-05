@@ -7,6 +7,9 @@
 
 <br>
 
+### 개념 정리
+- [DFS](week01-dfs-concept.md)
+
 ### 풀어볼 문제
 - 깊이 우선 탐색 순회(몸풀기 문제)
 - [네트워크(프로그래머스)](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
